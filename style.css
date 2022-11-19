@@ -1,0 +1,9 @@
+body{
+    background-color: pink;
+}
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:3px dashed black;
+}
